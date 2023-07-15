@@ -60,3 +60,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+Qsorder/AUDIO_2023
+Qsorder/qsorder-debug-log.txt
+.vscode/settings.json
+qsorder-debug-log.txt
